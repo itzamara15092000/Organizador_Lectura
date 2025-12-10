@@ -1,8 +1,7 @@
 # 📚 Leaftime - Agenda Literaria Personal
 
 <div align="center">
-  <img src="client/public/assets/images/klassy-logo.png" alt="Leaftime Logo" width="200"/>
-  
+
   <p><strong>Organiza, rastrea y disfruta cada lectura</strong></p>
   
   ![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=flat-square&logo=react)
