@@ -327,22 +327,19 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👥 Autores y Colaboradores
 
 ### 👨‍💻 Desarrollador Principal
-**Sergio Dev**
-- GitHub: [@sergiodev3](https://github.com/sergiodev3)
-- Proyecto: [organizador-lectura-app](https://github.com/sergiodev3/organizador-lectura-app)
-
-### 👩‍💻 Colaboradora
 **Itzamara Sotero Martinez**
 - GitHub: [@itzamara15092000](https://github.com/itzamara15092000)
 - Contribuciones: Diseño UI/UX, testing y documentación
 
----
 
-## 🙏 Agradecimientos
+### 👩‍💻 Colaboradora
+**Yhairi Ximena Rivera Reyes**
+- GitHub: [@YhairiXimenaRiveraReyes]([https://github.com/YhairiXimenaRiveraReyes)
+- Contribuciones: Diseño UI/UX, testing y documentación
 
-- Template original: [TemplateMo 558 Klassy Cafe](https://templatemo.com/tm-558-klassy-cafe)
-- Iconos: [Font Awesome](https://fontawesome.com/)
-- Tipografía: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
+**Sanjuana Garcia Hernandez**
+- GitHub: [@San]([https://github.com/SanjuisDez])
+- Contribuciones: Diseño UI/UX, testing y documentación
 
 ---
 
@@ -461,4 +458,4 @@ Este proyecto fue creado para uso educativo y personal.
 
 ## 👥 Autores
 
-- **Tu Nombre** - Desarrollo y migración a React
+- **Yhairi Ximena, Itzamara, Sanjuana** - Desarrollo y migración a React
