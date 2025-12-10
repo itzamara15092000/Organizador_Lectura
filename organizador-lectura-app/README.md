@@ -328,13 +328,15 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👥 Autores y Colaboradores
 
 ### 👨‍💻 Desarrollador Principal
-**Sergio Dev**
-- GitHub: [@sergiodev3](https://github.com/sergiodev3)
-- Proyecto: [organizador-lectura-app](https://github.com/sergiodev3/organizador-lectura-app)
+**Yhairi Ximena Rivera Reyes**
+- GitHub: [@YhairiXimenaRiveraReyes](https://github.com/itzamara15092000](https://github.com/YhairiXimenaRiveraReyes)
+
+**Sanjuana Garcia Hernadez**
+- GitHub: [@YhairiXimenaRiveraReyes](https://github.com/itzamara15092000](https://github.com/YhairiXimenaRiveraReyes)
 
 ### 👩‍💻 Colaboradora
 **Itzamara Sotero Martinez**
-- GitHub: [@itzamara15092000](https://github.com/itzamara15092000)
+- GitHub: [@San](https://github.com/itzamara15092000](https://github.com/SanjuisDez)
 - Contribuciones: Diseño UI/UX, testing y documentación
 
 ---
@@ -462,7 +464,7 @@ Este proyecto fue creado para uso educativo y personal.
 
 ## 👥 Autores
 
-- **Tu Nombre** - Desarrollo y migración a React
+- **Itzamara Sotero Mtz** - Desarrollo y migración a React
 
 ## 🙏 Agradecimientos
 
@@ -473,3 +475,4 @@ Este proyecto fue creado para uso educativo y personal.
 ---
 
 **Nota**: Esta es una migración del frontend antiguo (HTML/jQuery) a React manteniendo todos los estilos, tipografías e imágenes originales.
+
